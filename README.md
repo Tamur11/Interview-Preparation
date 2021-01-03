@@ -1,2 +1,2 @@
 # Interview-Preparation
-Preparation for CS interviews using Google CSSI generated interview questions.
+Preparation for CS interviews using Google CSSI selected interview questions.
